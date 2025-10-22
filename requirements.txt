@@ -1,0 +1,9 @@
+opencv-python
+opencv-contrib-python
+pyautogui
+pywhatkit
+pvporcupine
+hugchat
+playsound
+pyaudio
+eel
